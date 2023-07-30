@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>STAR PLUS &#8211; TAKAMURA         STORE</title>
+	<atom:link href="/categoria-producto/star-plus/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 26 Jul 2023 03:50:57 +0000</lastBuildDate>
+	<language>es-CO</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/07/cropped-descarga-_1_-32x32.png</url>
+	<title>STAR PLUS &#8211; TAKAMURA         STORE</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>STAR PLUS COMPLETA 30 DIAS</title>
+		<link>/product/star-plus-completa-30-dias/</link>
+					<comments>/product/star-plus-completa-30-dias/#respond</comments>
+		
+		<dc:creator><![CDATA[camilo_0611]]></dc:creator>
+		<pubDate>Tue, 25 Jul 2023 02:19:01 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=370</guid>
+
+					<description><![CDATA[Star+ Cuenta Completa
+<strong>SERVICIO POR 30 DIAS</strong>
+
+<strong>RECOMENDACIONES</strong>
+
+Star+ es un servicio que permite la reproducción en <strong>4 dispositivos simultáneamente</strong>.
+
+<strong>Ten presente</strong>, al momento de ingresar suele aparecer <strong>*CODIGO DE ACCESO*</strong>, sin embargo, no te asustes esto puedes reportarlo al <strong>WhatsApp y te daremos las indicaciones a seguir</strong>.
+
+Este servicio es <strong>RENOVABLE</strong>, lo único que tienes que hacer es escribir al WhatsApp y manifestar tus ganas de permanecer con la misma cuenta y no perder tu historial.
+
+NO OLVIDES DISFRUTAR DE TU CUENTA, RECUERDA QUE SI TIENES ALGUNA DUDA TENEMOS PERSONAL ENCARGADO PARA ATENDERTE.]]></description>
+										<content:encoded><![CDATA[Star+ Cuenta Completa
+<strong>SERVICIO POR 30 DIAS</strong>
+
+<strong>RECOMENDACIONES</strong>
+
+Star+ es un servicio que permite la reproducción en <strong>4 dispositivos simultáneamente</strong>.
+
+<strong>Ten presente</strong>, al momento de ingresar suele aparecer <strong>*CODIGO DE ACCESO*</strong>, sin embargo, no te asustes esto puedes reportarlo al <strong>WhatsApp y te daremos las indicaciones a seguir</strong>.
+
+Este servicio es <strong>RENOVABLE</strong>, lo único que tienes que hacer es escribir al WhatsApp y manifestar tus ganas de permanecer con la misma cuenta y no perder tu historial.
+
+NO OLVIDES DISFRUTAR DE TU CUENTA, RECUERDA QUE SI TIENES ALGUNA DUDA TENEMOS PERSONAL ENCARGADO PARA ATENDERTE.]]></content:encoded>
+					
+					<wfw:commentRss>/product/star-plus-completa-30-dias/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
